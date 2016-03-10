@@ -1,0 +1,5 @@
+com/weice/bookstore/Book.class
+com/weice/bookstore/OfyHelper.class
+com/weice/bookstore/SearchServlet.class
+com/weice/bookstore/Genre.class
+com/weice/bookstore/AddBookServlet.class
